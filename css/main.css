@@ -1,8 +1,9 @@
+/*Variáveis*/
 :root{
     --vermelho: #E50914;
     --preta: #141414;
     --cinza: #aaa;
-    --hover: #fff;
+    --branco: #fff;
 }
 
 *{
@@ -11,9 +12,11 @@
     box-sizing: border-box;
 }
 
+/*Elementos bases*/
 body{
     background: var(--preta);
     font-family: 'Times New Roman', Times, serif;
+    color: var(--branco);
 }
 
 header .container{
@@ -37,5 +40,29 @@ header nav a{
 }
 
 header nav a:hover{
-    color: var(--hover);
+    color: var(--branco);
+}
+
+/*Filme principal*/
+.filme-principal{
+    font-size: 20px;
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(../img/madmax_backgroud.jpeg);
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    margin-bottom: 90px;
+}
+
+.titulo{
+    font-size: 50px;
+}
+
+.filme-principal h4 {
+    font-size: 25px;
 }
