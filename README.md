@@ -16,5 +16,5 @@
 - Owl carousel 2 
 
 <img src = "./img/README/Tela.png">
-<img src = "./img/README/Tela2.png">
+<img src = "./img/README/Tela2.png"> 
 <img src = "./img/README/Tela3.png">
