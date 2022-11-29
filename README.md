@@ -15,6 +15,6 @@
 ###### Carrosel:
 - Owl carousel 2 
 
-![alt](./img/README/Tela.png)
-![tela drop menu](./img/README/Tela2.png)
-![tela responsividade](./img/README/Tela3.png)
+<img src = "./img/README/Tela.png">
+<img src = "./img/README/Tela2.png">
+<img src = "./img/README/Tela3.png">
