@@ -16,3 +16,5 @@
 - Owl carousel 2 
 
 ![alt](./img/README/Tela.png)
+![alt](./img/README/Tela2.png)
+![alt](./img/README/Tela3.png)
